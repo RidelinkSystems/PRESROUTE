@@ -202,15 +202,15 @@ If you use PRESROUTE in research or production systems, please cite:
 
 ## License
 
-[MIT] (or insert your chosen license)
+MIT License
 
 ---
 
 ## Maintainers
 
-* Amon Nyesigye — CTO, Ridelink
-* Clinton Mugisha — Software Engineer
-* Arnold Ikonde Nekemiah — Software Engineer
+* Amon Nyesigye — CTO, Ridelink - amon@ride-link.com
+* Clinton Mugisha — Software Engineer - clinton@ride-link.com
+* Arnold Ikonde Nekemiah — Software Engineer  - arnold@ride-link.com
 
 ---
 
